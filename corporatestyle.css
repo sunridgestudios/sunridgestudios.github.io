@@ -1,0 +1,174 @@
+
+BODY		{ scrollbar-base-color: #9CA7C1 }
+
+ /* THE NEXT LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+
+TABLE		{ COLOR: #003366; FONT: 12px arial, geneva, verdana, sans-serif }
+
+.title		{ COLOR: #262662; FONT: 22px "Copperplate Gothic Light", verdana, arial, sans-serif; letter-spacing: 2px; font-weight: normal }
+
+a:link		{ color: #6666FF; text-decoration: none }
+
+a:visited	{ color: #6666FF; text-decoration: none }
+
+a:active	{ color: #666666; text-decoration: none }
+
+a:hover		{ color: #6699FF; text-decoration: none }
+
+.biglink 	{ FONT: 12px verdana, arial, sans-serif; font-weight: bold; font-style: italic; TEXT-DECORATION: none }
+
+.biglink:hover 	{ FONT: 12px verdana, arial, sans-serif; font-weight: bold; font-style: italic; TEXT-DECORATION: underline }
+
+.just 		{text-align: justify;}
+
+.copyright	{ COLOR: #000033; FONT: 11px geneva, verdana, arial, sans-serif }
+
+.smalltitle 	{ COLOR: #000000; FONT: 11px verdana, arial, sans-serif; font-weight: bold }
+
+.subtitle	{ COLOR: #9999CC; FONT: 14px "Copperplate Gothic Light", geneva, verdana, arial, sans-serif; font-weight: bold }
+
+.picturecomments{ COLOR: #666666; FONT: 10px geneva, verdana, arial, sans-serif }
+
+.picturetitle 	{ COLOR: #000000; FONT: 10px verdana, arial, sans-serif; font-weight: bold }
+
+.services 	{ COLOR: #262662; FONT: 12px arial, verdana, sans-serif; font-weight: bold }
+
+.listen		{ COLOR: #000000; FONT: 12px geneva, verdana, arial, sans-serif; font-weight: bold }
+
+#menu 		{ LEFT: 0px; WIDTH: 154px; POSITION: absolute; TOP: 104px }
+
+#wm-location 	{ LEFT: 0px; POSITION: absolute; TOP: 0px; z-index:-1; }
+
+#music-closebutton { POSITION: absolute; BOTTOM: 8px }
+
+#nav 		{ RIGHT: 10px;
+		white-space: nowrap;
+		POSITION: absolute; TOP: 220px;
+		background-color:#F0F0F0;
+		padding: 10px;
+		padding-left: 15px;
+		padding-right: 15px;
+		filter:alpha(opacity=90);
+		background-image: url("picts/background-nav.gif");
+		BORDER: #C0C0C0 1px solid }
+
+
+
+.button { 	background-image: url("picts/button.gif");
+		background-color:#FFFFFF;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #003366;
+		font-size: 9pt;
+		height: 25px;
+		width: 154px;
+		cursor:hand;
+		font-weight: bold;
+		text-align: left;
+		padding-top: 6px;
+		padding-bottom: 6px;
+		padding-left: 9px;
+		padding-right: 5px;
+		BORDER: #FFFFFF 0px solid }
+
+.buttonon { 	background-image: url("picts/buttonon.gif");
+		background-color:#FFFFFF;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #666699;
+		font-size: 9pt;
+		height: 25px;
+		width: 154px;
+		cursor:hand;
+		font-weight: bold;
+		text-align: left;
+		padding-top: 6px;
+		padding-bottom: 6px;
+		padding-left: 9px;
+		padding-right: 5px;
+		BORDER: #FFFFFF 0px solid }
+
+.button-popups { background-color:#FFFFFF;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #336699;
+		font-size: 8pt;
+		height: 21px;
+		cursor:hand;
+		font-weight: bold;
+		text-align: center;
+		padding-left: 5px;
+		padding-right: 5px;
+		BORDER: #336699 1px solid }
+
+
+.buttonon-popups { background-color:#FFFFFF;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #000000;
+		font-size: 8pt;
+		height: 21px;
+		cursor:hand;
+		font-weight: bold;
+		text-align: center;
+		padding-left: 5px;
+		padding-right: 5px;
+		BORDER: #000000 1px solid }
+
+.shadeform	{ FONT: 13px arial, verdana, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		text-align: left;
+		WIDTH: 180PX;
+		BORDER: #000000 1px solid}
+
+
+.dropdown {	COLOR: #333333;
+		WIDTH: 180PX;
+		FONT: 11px geneva, verdana, arial, sans-serif}
+
+
+.textarea	{ FONT: 13px arial, verdana, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		text-align: left;
+		WIDTH: 300PX;
+		BORDER: #000000 1px solid}
+
+.searchform { 	WIDTH: 110PX;
+		HEIGHT: 20PX;
+		FONT: 11px arial, georgia, "Times New Roman", sans-serif;
+		background-image: url("picts/shadeform.gif");
+		BORDER: #000000 1px solid}
+
+
+
+.searchdrop { WIDTH: 60PX; HEIGHT: 20PX; FONT: 11px arial, georgia, "Times New Roman", sans-serif }
+
+
+.searchbutton 	{background-image: url("picts/searchbutton.gif");
+		background-color:#F0F0F0;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #000000;
+		font-size: 8pt;
+		height: 20px;
+		width: 35px;
+		cursor:hand;
+		font-weight: bold;
+		text-align: center;
+		BORDER: #000000 1px solid }
+
+
+.divstyle {	position:absolute;
+		border: #000000 1px solid;
+		width:90;
+		top:0;
+		left:0 }
+
+.pstyletitle{	postion:absolute;
+		background:white;
+		color:black;
+		font-size:10px;
+		font-family:verdana, arial }
+
+
+.pstylebody {	postion:absolute;
+		background:white;
+		color:black;
+		font-size:10px;
+		font-family:verdana, arial }
