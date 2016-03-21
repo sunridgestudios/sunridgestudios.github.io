@@ -28,7 +28,7 @@ document.write('Sound Gallery<br>');
 
 // COPY AND PASTE THE NEXT TWO LINES TOO ADD A NEW LINK
 
-document.write('</td></tr><tr><td onClick="location.href=\'http://home.comcast.net/~jnorman34/SDNstudio.htm\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
+document.write('</td></tr><tr><td onClick="location.href=\'http://sunridgestudios.github.io\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
 document.write('Flute Studio<br>');
 
 document.write('</td></tr><tr><td onClick="location.href=\'http://harprose.com/Music_for_Harp.html\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
