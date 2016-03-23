@@ -31,11 +31,8 @@ document.write('Sound Gallery<br>');
 document.write('</td></tr><tr><td onClick="location.href=\'studio.html\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
 document.write('Flute Studio<br>');
 
-document.write('</td></tr><tr><td onClick="location.href=\'http://harprose.com/Music_for_Harp.html\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
+document.write('</td></tr><tr><td onClick="location.href=\'http://harprose.com/';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
 document.write('Harp Pages<br>');
-
-document.write('</td></tr><tr><td onClick="location.href=\'links.htm\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
-document.write('Links<br>');
 
 document.write('</td></tr><tr><td onClick="location.href=\'mailto:sandyduffynorman@comcast.net\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
 document.write('Contact<br>');
