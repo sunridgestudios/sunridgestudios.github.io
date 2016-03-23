@@ -37,6 +37,8 @@ document.write('Harp Pages<br>');
 document.write('</td></tr><tr><td onClick="location.href=\'mailto:sandyduffynorman@comcast.net\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">');
 document.write('Contact<br>');
 
+document.write('</td></tr><tr><td onClick="location.href=\'index.html\';" onmouseover="this.className=\'buttonon\'" onmouseout="this.className=\'button\'" class="button">'); 
+44 document.write('Home<br>'); 
 
 
 
